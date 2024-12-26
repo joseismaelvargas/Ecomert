@@ -6,8 +6,7 @@ function App() {
 
   return (
     <>
-     <h1>Pagina Ecomert de pryecto de pasdasfdfdsfdasfds</h1>
-    </>
+</>
   )
 }
 
